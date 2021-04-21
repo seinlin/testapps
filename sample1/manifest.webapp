@@ -1,0 +1,23 @@
+{
+ "name": "Sample1",
+ "icons": {
+  "64": "https://seinlin.github.io/testapps/sample1/sample1.png"
+ },
+ "default_locale":"en-US",
+ "locales":{
+  "en-US":{"name":"Sample1","description":"Sample1"},
+  "zh-TW":{"name":"測試一","description":"測試一"}
+ },
+ "version": "2.2",
+ "size": 10022,
+ "release_notes": null,
+ "developer": {
+  "url": "https://seinlin.github.io/testapps/",
+  "name": "Seinlin"
+ },
+ "dependencies" :{
+   "api-daemon": "1.4.26",
+   "wavoip2": "1.0.3"
+ },
+ "package_path": "https://seinlin.github.io/testapps/sample1/sample1-signed.zip"
+}
